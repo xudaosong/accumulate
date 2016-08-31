@@ -2,7 +2,7 @@
 ## 说明
 src/school目录是多页站点
 src/student目录是单页站点
-## 起始阶段
+## 配置环境
 执行 bower-install.bat和npm-install.bat,bower-install.bat要一条一条拷贝执行
 ## 开发阶段
 1. 执行grunt wiredep injector命令，用于注入bower文件和业务文件到【src/子站点目录】下的*.html，后续有新增或删除文件时也需执行该命令重新注入相关文件，因为angular需要在执行前加载所有的模块文件
