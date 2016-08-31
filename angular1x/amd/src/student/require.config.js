@@ -10,7 +10,7 @@ require.config({
         'ngSanitize':'../../bower_components/angular-sanitize/angular-sanitize',
         'ngAMD':'../../bower_components/angularAMD/angularAMD',
         'ngload':'../../bower_components/angularAMD/ngload',
-        'text':'../../bower_components/requirejs-text/text',
+        'text':'../../bower_components/text/text',
         'requirejs':'../../bower_components/requirejs/require'
     },
     shim:{
