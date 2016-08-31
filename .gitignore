@@ -1,1 +1,11 @@
 /.idea
+/angular1x/single/node_modules
+/angular1x/single/bower_components
+/angular1x/single/.sass-cache
+/angular1x/single/.tmp
+/angular1x/single/dist
+/angular1x/amd/node_modules
+/angular1x/amd/bower_components
+/angular1x/amd/.sass-cache
+/angular1x/amd/.tmp
+/angular1x/amd/dist
