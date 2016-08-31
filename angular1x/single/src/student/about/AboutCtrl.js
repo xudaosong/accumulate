@@ -7,7 +7,7 @@
  * # AboutCtrl
  * Controller of the yczz
  */
-angular.module('yczz.student')
+angular.module('angular-single.student')
   .controller('AboutCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',

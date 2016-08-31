@@ -2,12 +2,12 @@
 
 /**
  * @ngdoc function
- * @name yczz.controller:HomeCtrl
+ * @name angular-single.controller:HomeCtrl
  * @description
  * # HomeCtrl
  * Controller of the yczz
  */
-angular.module('yczz.school')
+angular.module('angular-single.school')
   .controller('HomeCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',

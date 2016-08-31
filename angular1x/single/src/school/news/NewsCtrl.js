@@ -2,12 +2,12 @@
 
 /**
  * @ngdoc function
- * @name yczz.controller:AboutCtrl
+ * @name angular-single.controller:AboutCtrl
  * @description
  * # AboutCtrl
  * Controller of the yczz
  */
-angular.module('yczz.school')
+angular.module('angular-single.school')
   .controller('NewsCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',

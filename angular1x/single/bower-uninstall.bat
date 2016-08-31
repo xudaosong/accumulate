@@ -1,0 +1,1 @@
+bower uninstall --save angular angular-animate angular-cookies angular-resource angular-sanitize angular-ui-router

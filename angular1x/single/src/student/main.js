@@ -9,7 +9,7 @@
  * Main module of the application.
  */
 angular
-  .module('yczz.student', [
+  .module('angular-single.student', [
     'ngAnimate',
     'ngCookies',
     'ngResource',

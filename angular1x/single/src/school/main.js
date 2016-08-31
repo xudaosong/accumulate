@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name yczzApp
+ * @name angular-singleApp
  * @description
  * # yczzApp
  *
  * Main module of the application.
  */
 angular
-  .module('yczz.school', [
+  .module('angular-single.school', [
     'ngAnimate',
     'ngCookies',
     'ngResource',
