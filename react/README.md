@@ -1,10 +1,10 @@
 # react脚手架
 
 ## 说明
-该脚手架使用es6开发，material-ui作为UI组件库，使用formsy-react开发表单
-cfg目录是webpack的配置文件，cfg/base.js是基本的配置，cfg/default.js是默认的配置，cfg/dev.js是开发时的配置,cfg/dist是发布时的配置
-其中base.js依赖default.js，dev.js和dist.js都依赖base.js
-src目录是源文件目录，src/config是源代码开发、测试和发布的配置文件，base.js是基础配置（即各环境的统一配置）
+该脚手架使用es6开发，material-ui作为UI组件库，使用formsy-react开发表单。
+cfg目录是webpack的配置文件，cfg/base.js是基本的配置，cfg/default.js是默认的配置，cfg/dev.js是开发时的配置,cfg/dist是发布时的配置。
+其中base.js依赖default.js，dev.js和dist.js都依赖base.js。
+src目录是源文件目录，src/config是源代码开发、测试和发布的配置文件，base.js是基础配置（即各环境的统一配置）。
 
 
 ## 配置环境

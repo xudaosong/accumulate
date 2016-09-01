@@ -10,3 +10,6 @@
 /angular1x/amd/.tmp
 /angular1x/amd/dist
 /react/dist
+/knockout/src/lib
+/knockout/node_modules
+/knockout/dist

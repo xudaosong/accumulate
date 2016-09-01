@@ -1,0 +1,1 @@
+bower uninstall --save crossroads hasher requirejs requirejs-text knockout Knockout-Validation knockout-projections jquery knockout.mapping

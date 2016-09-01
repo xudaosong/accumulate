@@ -1,0 +1,30 @@
+<!doctype html>
+<html class="no-js">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="renderer" content="webkit">
+  <title></title>
+  <!-- build:css -->
+  <link href="../css/school.css" rel="stylesheet">
+  <!-- endbuild -->
+</head>
+<body>
+<!-- ko component: {name:'header'} -->
+<!-- /ko -->
+<div class="container">
+  <div data-bind="component: { name: 'news' }"></div>
+</div>
+<!-- ko component: {name:'footer'} -->
+<!-- /ko -->
+<!-- build:lib -->
+<script src="../require.config.js"></script>
+<script src="../lib/requirejs/require.js"></script>
+<!-- endbuild -->
+<!-- build:student -->
+<!-- endbuild -->
+<script>
+  require(['school/js/startup']);
+</script>
+</body>
+</html>

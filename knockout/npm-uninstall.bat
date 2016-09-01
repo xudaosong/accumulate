@@ -1,0 +1,1 @@
+npm uninstall --save-dev chalk combined-stream deeply event-stream grunt grunt-contrib-jshint gulp gulp-clean gulp-concat gulp-html-replace gulp-minify-css gulp-minify-html gulp-removelogs gulp-replace gulp-requirejs-bundler gulp-sass gulp-uglify jshint-html-reporter load-grunt-tasks requirejs
